@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afk-user
 - 👀 I’m interested in videogames, coding and all computer related things!
-- 🌱 I’m currently learning Programming and IT
+- 🌱 I’m currently learning Programming and Computer Science
 
 <!---
 afk-user/afk-user is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
