@@ -1,10 +1,10 @@
-- Hi, I’m @afk-user
-- I’m a Computer Engineering student at Technical University Federico Santa María, in Chile
+Hi, I’m afk-user, a Computer Engineering student at Technical University Federico Santa María, in Chile.
 - I can speak both English and Spanish fluently
 - I’m interested in videogames, coding and all computer related things!
 
-![afk-user's Github Stats](https://github-readme-stats.vercel.app/api?username=afk-user&show_icons=true&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afk-user&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)
+Currently experiencing fullstack hell (what do you mean everything is made in javascript).
+
+C# is pretty cool nontheless.
 
 <!---
 afk-user/afk-user is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
